@@ -1,4 +1,4 @@
--M Net::OpenSSH::ShellQuoter::POSIX 
+-M Net::OpenSSH::ShellQuoter::POSIX
 -M Net::SFTP::Foreign::Backend::Unix
 -M Sys::Syslog
 -M Net::OpenSSH
