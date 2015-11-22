@@ -1175,6 +1175,7 @@ Require:
 -M Rex::Pkg::OpenBSD
 -M Rex::Pkg::SunOS::pkg
 -M Rex::Pkg::SunOS::OpenCSW
+-M Rex::Pkg::Arch
 -M Rex::Template
 -M Rex::Profiler
 -M Rex::User
